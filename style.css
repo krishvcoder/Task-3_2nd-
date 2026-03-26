@@ -1,0 +1,39 @@
+body{
+    background-color: coral;
+}
+h1{
+    color: blue;
+}
+h2{
+    background-color: rgb(0, 255, 0);
+}
+.head{
+    color: blue;
+}
+/* #bglime{
+    color: green; */
+    .highlight{
+        color: red;
+    }
+
+    .p{
+        color: aliceblue;
+    }
+    #para{
+        color: rgb(4, 255, 4);
+    }
+    .highlightpara{
+        color:black;
+    }
+    .here1{
+        background-color: yellow;
+    }
+    .here2{
+        background-color: purple;
+    }
+    .red{
+        color: red;
+    }
+    .blue{
+        color: blue;
+    }
